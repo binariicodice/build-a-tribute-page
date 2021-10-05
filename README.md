@@ -27,3 +27,5 @@ User Story #9: The img element should be centered within its parent element.
 <h2>Preview:</h2>
 
 ![alt text](https://github.com/binariicodice/build-a-tribute-page/blob/main/1.png?raw=true)
+
+![alt text](https://github.com/binariicodice/build-a-tribute-page/blob/main/2.png?raw=true)
